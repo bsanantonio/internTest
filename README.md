@@ -9,6 +9,6 @@ Your assignment has three small parts:
   * Python
   * C++
   * Javascript
-* Place your solutions in a folder named Lastname_Firstname, and create a pull-request to this repository containing your solution.
+* Place your solutions, and copy of your resume, in a folder named Lastname_Firstname, and create a pull-request to this repository containing your solution.
 
 This coming Wednesday (5/8/2013) at noon PST I will merge your requests, and test your code.  I will contact all sucessful applicants sometime the next day.
