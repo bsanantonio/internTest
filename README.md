@@ -5,7 +5,7 @@ This is a quick screening test for interns interested in working with 3scan on s
 
 Your assignment has three small parts:
 * Clone this repository.
-* Write a soultion to the fizzbuzz test in at least two of the three following laungages:
+* Write a solution to the fizzbuzz test in at least two of the three following laungages:
   * Python
   * C++
   * Javascript
